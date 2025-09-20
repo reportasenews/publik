@@ -1,0 +1,9 @@
+judul file : robot.txt
+
+User-agent: *
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+Sitemap: https://reportasenews.github.io/publik/sitemap.xml
